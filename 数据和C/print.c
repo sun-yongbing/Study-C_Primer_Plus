@@ -2,7 +2,7 @@
 
 #include<stdio.h>
 
-int main()
+int main(void)
 {
 				unsigned int un = 300000000;
 				short end = 200;
