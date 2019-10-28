@@ -58,15 +58,5 @@ ELF Header:
   Type:                              DYN (Shared object file)
   Machine:                           Advanced Micro Devices X86-64
   Version:                           0x1
-  Entry point address:               0x5a0
-  Start of program headers:          64 (bytes into file)
-  Start of section headers:          6504 (bytes into file)
-  Flags:                             0x0
-  Size of this header:               64 (bytes)
-  Size of program headers:           56 (bytes)
-  Number of program headers:         9
-  Size of section headers:           64 (bytes)
-  Number of section headers:         29
-  Section header string table index: 28
 ````
 
