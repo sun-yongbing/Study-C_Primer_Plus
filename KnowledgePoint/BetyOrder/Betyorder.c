@@ -1,4 +1,4 @@
-/* Betyorder.c ---字节序 */
+/*Betyorder.c ---字节序 */
 
 
 #include<stdio.h>
@@ -11,7 +11,7 @@ int main()
 				int i = 0;
 				for(;i < 4;i++)
 				{
-								printf("%x\n",b[i]);
+								printf("%02x\n",b[i]);
 				}
 
 				return 0;
